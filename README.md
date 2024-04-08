@@ -1,6 +1,3 @@
-# Skincare_recommendation
-Sure, here's a suggested README file for your skincare recommendation system project based on similarity indexing:
-
 # Skincare Recommendation System
 
 This project aims to develop a skincare recommendation system that suggests suitable skincare products based on a user's skin type, concerns, and preferences. The system employs similarity indexing techniques to match users with relevant products from a database.
