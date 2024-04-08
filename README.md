@@ -18,28 +18,22 @@ This project aims to develop a skincare recommendation system that suggests suit
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/skincare-recommendation-system.git
+   git clone https://github.com/shalinta/Skincare_recommendation.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd skincare-recommendation-system
+   cd skin_recc.ipynb
    ```
 
 3. Install the required Python packages:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
 
 ## Usage
 
 1. Run the recommendation system:
-
-   ```bash
-   python main.py
-   ```
 
 2. Follow the on-screen prompts to input your skin type, concerns, and preferences.
 
