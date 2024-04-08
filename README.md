@@ -4,11 +4,9 @@ This project aims to develop a skincare recommendation system that suggests suit
 
 ## Features
 
-- **Skin Type & Concern Analysis**: Users can input their skin type (dry, oily, combination, etc.) and specific concerns (acne, anti-aging, dullness, etc.) to receive personalized recommendations.
 - **Ingredient Preferences**: Users can specify preferred ingredients they want to include or exclude from the recommended products.
-- **Product Recommendations**: The system suggests skincare products (cleansers, moisturizers, serums, etc.) based on the user's inputs, using similarity indexing to match their needs with product characteristics.
-- **Product Details**: Users can view detailed information about the recommended products, including descriptions, ingredients, and ratings.
-- **User Reviews**: Users can read and submit reviews for products they have tried.
+- **Product Recommendations**: The system suggests skincare products (cleansers, moisturizers, serums, etc.) based on the user's inputs, using similarity indexing to match their ingredients with product characteristics.
+- **Product Details**: Users can view detailed information about the recommended products, ingredients, and ratings.
 
 ## Installation
 
